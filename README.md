@@ -1,1 +1,1 @@
-# xlr-trainig-batch-2
+# Excelr-trainig-batch-2
